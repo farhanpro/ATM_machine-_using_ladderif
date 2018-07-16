@@ -34,7 +34,7 @@ public class Atm_machin {
 	 System.out.printf("Your new balance is $ %f",balance-transaction);
 	}
 	 if(owner==1) {
-		 System.out.printf("Your new balance is$ %d",balance+transaction);
+		 System.out.printf("Your new balance is$ %f",balance+transaction);
 	 }
 	}
 
